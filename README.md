@@ -1,8 +1,10 @@
-![MasterHead](https://media-exp1.licdn.com/dms/image/D5616AQE5zI_txiK6kQ/profile-displaybackgroundimage-shrink_350_1400/0/1669305197825?e=1674691200&v=beta&t=u7rJZIkGbqy-ez8n76cNfsGIxYFDHYm-QZO4uYGJJ-c)
+[MasterHead](https://media-exp1.licdn.com/dms/image/D5616AQE5zI_txiK6kQ/profile-displaybackgroundimage-shrink_350_1400/0/1669305197825?e=1674691200&v=beta&t=u7rJZIkGbqy-ez8n76cNfsGIxYFDHYm-QZO4uYGJJ-c)
 <h1 align="center">Hi 👋, I'm Sachin Raj</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 <img align="right"Coding" width="400" src="https://camo.githubusercontent.com/20ba1b87416f6e74a4debebec7a695504eec286a3a0a082f8cc6063ab1353dbe/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f302a4647443642557a7a5a7331564a4c75592e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin-raj-tk&label=Profile%20views&color=0e75b6&style=flat" alt="sachin-raj-tk" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sachin-raj-tk" alt="sachin-raj-tk" /></a> </p>
 
 - 🌱 I’m currently learning **SQL**
 
